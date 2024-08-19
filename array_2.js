@@ -48,7 +48,6 @@ console.log(arr.flat(Infinity));
 ]
 */
 
-
 //check array by using .isArray() method 
 
 console.log(Array.isArray("hello"));//false
